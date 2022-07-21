@@ -19,4 +19,5 @@ public class UsuarioModel {
     @Column(unique = true)
     private String login;
     private String password;
+
 }
